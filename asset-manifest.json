@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/experi/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/experi/static/js/main.b0f01ba8.chunk.js",
+    "main.js.map": "/experi/static/js/main.b0f01ba8.chunk.js.map",
+    "runtime-main.js": "/experi/static/js/runtime-main.379b9d47.js",
+    "runtime-main.js.map": "/experi/static/js/runtime-main.379b9d47.js.map",
+    "static/js/2.88ee5abb.chunk.js": "/experi/static/js/2.88ee5abb.chunk.js",
+    "static/js/2.88ee5abb.chunk.js.map": "/experi/static/js/2.88ee5abb.chunk.js.map",
+    "static/js/3.4f86320b.chunk.js": "/experi/static/js/3.4f86320b.chunk.js",
+    "static/js/3.4f86320b.chunk.js.map": "/experi/static/js/3.4f86320b.chunk.js.map",
+    "index.html": "/experi/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/experi/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.88ee5abb.chunk.js.LICENSE.txt": "/experi/static/js/2.88ee5abb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/experi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.379b9d47.js",
+    "static/js/2.88ee5abb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b0f01ba8.chunk.js"
+  ]
+}
